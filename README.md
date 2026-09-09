@@ -1,60 +1,62 @@
-# Hey, I'm Shawaiz Shahbaz 👋
-### Builder. Problem Solver. Full-Stack Engineer.
+<div align="center">
 
-I don't just write code — I turn ideas into responsive, production-ready software that people actually love to use. 
+# 💻 Shawaiz Shahbaz
+### Full-Stack Developer • Problem Solver • Lifelong Learner
 
-I'm a **Full-Stack Developer** passionate about building **scalable web applications** and exploring the intersection of **Robust Architectures × Intuitive UI/UX × Cloud Scalability**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) [![Portfolio](https://img.shields.io/badge/Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.dev) [![Email](https://img.shields.io/badge/Email-0080FF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:your.email@example.com)
 
-I enjoy taking problems that look complicated and turning them into simple, scalable, and elegant solutions.
-
----
-
-### ⚡ What I'm Building
-* **🚀 LEARNING** → Advanced system design architectures & microservices orchestration.
-* **🏗️ BUILDING** → A high-performance, real-time analytics platform using WebSockets.
-* **🔍 EXPLORING** → Edge computing, serverless setups, and vector databases for AI integration.
-* **🎯 WORKING TOWARD** → Contributing to major open-source infrastructure projects.
+</div>
 
 ---
 
-### 🛠️ Tech Arsenal & Languages
+### 🌐 Overview Dashboard
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS, Redux Toolkit |
-| **Backend & Infrastructure** | Node.js, Express, Python, FastAPI, Docker, RESTful APIs, GraphQL |
-| **Databases & Cloud** | PostgreSQL, MongoDB, Redis, AWS (S3, EC2), Supabase, Vercel |
+<table border="1">
+  <tr>
+    <th width="50%" bgcolor="#0052CC"><font color="#FFFFFF">🚀 Current Focus</font></th>
+    <th width="50%" bgcolor="#0052CC"><font color="#FFFFFF">🛠️ Tech Arsenal</font></th>
+  </tr>
+  <tr>
+    <td>
+      • <b>Learning:</b> Advanced System Architecture<br>
+      • <b>Building:</b> Real-time analytics platforms<br>
+      • <b>Exploring:</b> Edge computing & AI models<br>
+      • <b>Goal:</b> High-performance open-source code
+    </td>
+    <td>
+      • <b>Frontend:</b> React, Next.js, TypeScript<br>
+      • <b>Backend:</b> Node.js, Python, Docker<br>
+      • <b>Databases:</b> PostgreSQL, MongoDB, Redis
+    </td>
+  </tr>
+</table>
 
-> **My philosophy:** Tools change. Fundamentals don't.
+<br>
+
+### 💎 Featured Engineering Projects
+
+<table border="1">
+  <tr>
+    <th width="50%" bgcolor="#003399"><font color="#FFFFFF">📂 Project One: DevFlow</font></th>
+    <th width="50%" bgcolor="#003399"><font color="#FFFFFF">📂 Project Two: SmartInventory</font></th>
+  </tr>
+  <tr>
+    <td>
+      <b>The Challenge:</b> Disjointed multi-user code collaboration.<br>
+      <b>The Fix:</b> Unified live sync platform using WebSockets.<br>
+      🔹 <i>Scalability:</i> Supported 500+ live socket connections.<br>
+      🔹 <i>Decision:</i> Redis Pub/Sub optimized data streaming.
+    </td>
+    <td>
+      <b>The Challenge:</b> Financial loss from inventory overstocking.<br>
+      <b>The Fix:</b> Light machine learning predictive analytics UI.<br>
+      🔹 <i>Impact:</i> Trimmed forecasting overhead by 30%.<br>
+      🔹 <i>Decision:</i> Lightweight regression engine integration.
+    </td>
+  </tr>
+</table>
 
 ---
-
-### 📌 Featured Projects
-
-#### 📂 Project One: DevFlow — Real-Time Developer Collaboration Platform
-*One-line description of what makes this project interesting.*
-An interactive platform enabling multi-user live code editing, built-in audio channels, and seamless workspace persistence.
-
-* **The problem:** Remote development teams struggle with disjointed workflows when pair programming across separate communication and text-editing apps.
-* **The solution:** Unified those core utilities into a single end-to-end framework, dropping latency significantly using state synchronization.
-* **The result:** Successfully reduced collaboration friction for beta testers and optimized concurrent asset synchronization.
-
-**✨ Highlights:**
-* ⚡ **Feature:** Operational Transformation (OT) engine for conflict-free document editing.
-* 📈 **Performance & Scale:** Handled over 500+ simultaneous open socket connections seamlessly.
-* 🧠 **Engineering Decision:** Chose a custom Redis Pub/Sub model over traditional polling to optimize data streaming efficiency.
-
-#### 📂 Project Two: SmartInventory — AI-Driven Supply Chain Tracker
-*One-line description of what makes this project interesting.*
-An automated dashboard mapping consumer trends to supply demands using machine learning algorithms.
-
-* **The problem:** Small businesses lose significant revenue annually due to overstocking or missing predictive market shifts.
-* **The solution:** Structured a lightweight historical regression system feeding clean metrics directly to an administrative UI.
-* **The result:** Lowered localized manual forecasting overhead by roughly 30% inside sandbox trial parameters.
-
----
-
-### 🤝 Let's Connect!
-* 💼 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com)
-* 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-* 🌐 **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
+<div align="center">
+<i>"Tools change. Fundamentals don't."</i>
+</div>
