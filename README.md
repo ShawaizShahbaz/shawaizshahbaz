@@ -1,60 +1,59 @@
 <div align="center">
 
-# 💻 Shawaiz Shahbaz
+# 🛠️ Shawaiz Shahbaz
 ### Software Engineering Student • Aspiring AI Engineer
 
 ---
 
-### 🌐 My Academic & Dev Dashboard
+<!-- DYNAMIC STATS SECTION -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shawaizshahbaz&show_icons=true&theme=tokyonight&count_private=true" alt="Shawaiz's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawaizshahbaz&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" height="150" />
+</p>
 
-<table border="1" align="center">
-  <tr bgcolor="#0052CC">
-    <th width="300"><font color="#FFFFFF">🎓 University Journey</font></th>
-    <th width="300"><font color="#FFFFFF">🛠️ Current Tech Arsenal</font></th>
+<!-- TECH STACK BADGES SECTION -->
+### 🧪 Tech Arsenal
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python (Learning)" />
+</p>
+
+---
+
+<!-- ACADEMIC & MISSION GRID -->
+<table border="1" align="center" style="border-collapse: collapse;">
+  <tr bgcolor="#0d1117">
+    <th width="300"><font color="#58a6ff">🎓 Academic Journey</font></th>
+    <th width="300"><font color="#58a6ff">🤖 AI Target Milestones</font></th>
   </tr>
-  <tr bgcolor="#F0F4FA">
+  <tr bgcolor="#161b22">
     <td>
       • <b>Degree:</b> BS Software Engineering<br>
-      • <b>Core Focus:</b> Shifting gears into AI Engineering<br>
-      • <b>Learning:</b> Python & Data Foundations<br>
-      • <b>Goal:</b> Bridging classic web UI with smart AI models
+      • <b>Current Focus:</b> Frontend Core Systems<br>
+      • <b>Next Up:</b> Data structures and algorithmic logic
     </td>
     <td>
-      • <b>Languages:</b> JavaScript (ES6+)<br>
-      • <b>Web Core:</b> HTML5 & CSS3<br>
-      • <b>Design:</b> Responsive & interactive layouts<br>
-      • <b>Next Up:</b> Python, NumPy, and Pandas
+      • <b>University Target:</b> Specialized Artificial Intelligence Track<br>
+      • <b>Core Modules:</b> Numerical methods & script scripting<br>
+      • <b>Goal:</b> Merging semantic web apps with local AI models
     </td>
   </tr>
 </table>
 
 <br>
 
-### 💎 My Early Milestones & Projects
-
-<table border="1" align="center">
-  <tr bgcolor="#003399">
-    <th width="300"><font color="#FFFFFF">🎨 Frontend Web Projects</font></th>
-    <th width="300"><font color="#FFFFFF">🤖 Future AI Milestones</font></th>
-  </tr>
-  <tr bgcolor="#ECF2FA">
-    <td>
-      <b>Interactive Web Layouts</b><br>
-      Building clean interfaces to practice logical UI flows.<br>
-      🔹 <i>Tech:</i> HTML5, CSS3, Vanilla JavaScript.<br>
-      🔹 <i>Focus:</i> Dom manipulation and clean layouts.
-    </td>
-    <td>
-      <b>Intelligent Web Tools</b><br>
-      Preparing to integrate datasets into frontend layouts.<br>
-      🔹 <i>Next Step:</i> Learning Python for data handling.<br>
-      🔹 <i>Goal:</i> Connecting basic web views to smart scripts.
-    </td>
-  </tr>
-</table>
+<!-- CONTRIBUTION SNAKE GAME ANIMATION -->
+### 🐍 My Coding Activity Matrix
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shawaizshahbaz/shawaizshahbaz/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
 
 ---
 
-<i>"The beautiful thing about learning is that no one can take it away from you."</i>
+<p align="center">
+  <i>"The beautiful thing about learning is that no one can take it away from you."</i>
+</p>
 
 </div>
