@@ -3,13 +3,11 @@
 # 💻 Shawaiz Shahbaz
 ### Software Engineering Student • Aspiring AI Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) [![Portfolio](https://img.shields.io/badge/Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.dev) [![Email](https://img.shields.io/badge/Email-0080FF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:your.email@example.com)
-
 ---
 
 ### 🌐 My Academic & Dev Dashboard
 
-<table border="1" align="center" style="border-collapse: collapse; border: 2px solid #0052CC;">
+<table border="1" align="center" style="border-collapse: collapse; border: 2px solid #blue;">
   <tr>
     <th width="300" bgcolor="#0052CC"><font color="#FFFFFF">🎓 University Journey</font></th>
     <th width="300" bgcolor="#0052CC"><font color="#FFFFFF">🛠️ Current Tech Arsenal</font></th>
