@@ -7,8 +7,8 @@
 
 <!-- DYNAMIC STATS SECTION -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shawaizshahbaz&show_icons=true&theme=tokyonight&count_private=true" alt="Shawaiz's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawaizshahbaz&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShawaizShahbaz&show_icons=true&theme=tokyonight&count_private=true" alt="Shawaiz's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawaizShahbaz&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" height="150" />
 </p>
 
 <!-- TECH STACK BADGES SECTION -->
@@ -47,7 +47,7 @@
 <!-- CONTRIBUTION SNAKE GAME ANIMATION -->
 ### 🐍 My Coding Activity Matrix
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shawaizshahbaz/shawaizshahbaz/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/shawaizshahbaz/ShawaizShahbaz/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
