@@ -1,5 +1,3 @@
-markdown
-
 <div align="center">
 
 # 🛠️ Shawaiz Shahbaz
@@ -45,14 +43,11 @@ markdown
 
 <br>
 
-<!-- REPLACED SNAKE WITH THEME-FRIENDLY ROADMAP TIMELINE -->
-### 🗺️ My Developer Evolution Roadmap
-
-| Timeline Block | Target Objective | Core Milestones | Status Indicator |
-| :--- | :--- | :--- | :--- |
-| **Phase 1** | Foundation Layer | Solidify core DOM styling via HTML5, CSS3, & responsive JavaScript layout matrices | `🟢 Fully Completed` |
-| **Phase 2** | Data Logic Setup | Master fundamental algorithms, clean script scripting architectures, and procedural arrays | `🟡 Active Progress` |
-| **Phase 3** | AI Specialization | Integrate NumPy / Pandas arrays into local frontend scripts to render structured predictive charts | `🔵 Upcoming Target` |
+<!-- REPLACED SNAKE WITH DIRECT LIVE ACTIVITY COMPONENT -->
+### 📊 Git Trophy Metrics
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShawaizShahbaz&theme=tokyonight&margin-w=15&margin-h=15" alt="Shawaiz's GitHub Trophies" width="100%" />
+</p>
 
 ---
 
@@ -61,5 +56,3 @@ markdown
 </p>
 
 </div>
-
-Use code with caution.
