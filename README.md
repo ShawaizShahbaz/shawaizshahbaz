@@ -7,19 +7,19 @@
 
 ### 🌐 My Academic & Dev Dashboard
 
-<table border="1" align="center" style="border-collapse: collapse; border: 2px solid #blue;">
+<table border="1" align="center" style="border-collapse: collapse; border: 2px solid blue;">
   <tr>
     <th width="300" bgcolor="#0052CC"><font color="#FFFFFF">🎓 University Journey</font></th>
     <th width="300" bgcolor="#0052CC"><font color="#FFFFFF">🛠️ Current Tech Arsenal</font></th>
   </tr>
   <tr>
-    <td bgcolor="#E6F0FA">
+    <td bgcolor="#77777">
       • <b>Degree:</b> BS Software Engineering<br>
       • <b>Core Focus:</b> Shifting gears into AI Engineering<br>
       • <b>Learning:</b> Python & Data Foundations<br>
       • <b>Goal:</b> Bridging classic web UI with smart AI models
     </td>
-    <td bgcolor="#E6F0FA">
+    <td bgcolor="#77777">
       • <b>Languages:</b> JavaScript (ES6+)<br>
       • <b>Web Core:</b> HTML5 & CSS3<br>
       • <b>Design:</b> Responsive & interactive layouts<br>
