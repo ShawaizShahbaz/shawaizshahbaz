@@ -5,12 +5,6 @@
 
 ---
 
-<!-- DYNAMIC STATS SECTION -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShawaizShahbaz&show_icons=true&theme=tokyonight&count_private=true" alt="Shawaiz's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawaizShahbaz&layout=compact&theme=tokyonight&langs_count=4" alt="Most Used Languages" height="150" />
-</p>
-
 ### 🧪 Tech Arsenal
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -40,14 +34,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<!-- REPLACED SNAKE WITH DIRECT LIVE ACTIVITY COMPONENT -->
-### 📊 Git Trophy Metrics
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShawaizShahbaz&theme=tokyonight&margin-w=15&margin-h=15" alt="Shawaiz's GitHub Trophies" width="100%" />
-</p>
 
 ---
 
